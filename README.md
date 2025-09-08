@@ -1,6 +1,2 @@
 integrantes del grupo
-
-alan moreno 
-theo cattaño
-jeremias luna
-javier oyola
+Alan Moreno,Theo Cattaño,Jeremias Luna,Javier Oyola
